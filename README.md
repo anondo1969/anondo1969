@@ -1,7 +1,5 @@
 # Hi, I'm Mahbub
 
-**Data Engineer (AI) @ [SciLifeLab Data Centre](https://www.scilifelab.se/data-centre/mahbub-ul-alam/), Stockholm, Sweden.**
-
 I build **open, self-hosted AI tools for life science**, including LLM infrastructure, agent workflows, and research tools designed to be useful, auditable, and privacy-conscious.
 
 ### What I'm working on
@@ -18,6 +16,6 @@ I build **open, self-hosted AI tools for life science**, including LLM infrastru
 
 ### Find me
 
-[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/anondo/)
+[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/anondo)
 
-`mahbub.ul.alam@scilifelab.uu.se`
+> `"....one thing is certain, that Life flies; One thing is certain, and the Rest is Lies; The Flower that once blown for ever dies." -Rubaiyat`
