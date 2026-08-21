@@ -1,6 +1,6 @@
 # Hi, I'm Mahbub
 
-**Data Engineer (AI) @ [SciLifeLab Data Centre](https://www.scilifelab.se/data-centre/mahbub-ul-alam/), Sweden.**
+**Data Engineer (AI) @ [SciLifeLab Data Centre](https://www.scilifelab.se/data-centre/mahbub-ul-alam/), Stockholm, Sweden.**
 
 I build **open, self-hosted AI tools for life science**, including LLM infrastructure, agent workflows, and research tools designed to be useful, auditable, and privacy-conscious.
 
