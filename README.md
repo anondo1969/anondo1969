@@ -14,8 +14,8 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 
 ### Ask me about
 
-`self-hosted LLMs` · `AI agents & MCP` · `scientific RAG & evaluation` · `AI for life science`
+`self-hosted LLMs` · `AI agents & MCP` · `LLM & AI agent based software development` · `AI for life science`
 
 ### Find me
 
-[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ) · [**LinkedIn**](https://www.linkedin.com/in/anondo)
+[**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**LinkedIn**](https://www.linkedin.com/in/anondo) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
