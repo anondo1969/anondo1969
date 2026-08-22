@@ -17,8 +17,8 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 - [**serve-template-gradio**](https://github.com/ScilifelabDataCentre/serve-template-gradio): AI agent & CLI access, MCP, and agent workflows for SciLifeLab Serve apps · [SciLifeLab Serve live](https://serve.scilifelab.se/)
 - [**AI Agent & MCP workshop**](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-06-09): hands-on materials for life science researchers with supporting live visualization tools · [tool-1](https://anondo1969.github.io/ai-agents-life-sciences/)
  · [tool-2](https://anondo1969.github.io/ai-agents-healthcare/) · [webinar](https://www.youtube.com/watch?v=aOtLszUsMjw)
+-  [**citation-constellation**](https://github.com/citation-cosmograph/citation-constellation): auditable citation-network analysis for researchers · [live](https://citation-constellation.serve.scilifelab.se) · [paper](https://arxiv.org/abs/2603.24216)
 - [**pause**](https://github.com/anondo1969/pause): a citation-grounded self-check on how AI may shape our habits of thought · [live](https://anondo1969.github.io/pause/) · [paper](https://doi.org/10.2139/ssrn.7270039)
-- [**citation-constellation**](https://github.com/citation-cosmograph/citation-constellation): auditable citation-network analysis for researchers · [live](https://citation-constellation.serve.scilifelab.se) · [paper](https://arxiv.org/abs/2603.24216)
 
 ### Ask me about
 
