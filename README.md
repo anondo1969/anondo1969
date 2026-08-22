@@ -6,7 +6,7 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 
 ### What I'm working on
 
-- [**openllm-setup**](https://github.com/ScilifelabDataCentre/openllm-setup): self-hosted open LLM infrastructure for Swedish life science research · [live](https://openllm.scilifelab.se) · [User Guide](https://open-llm.scilifelab.se/guides/#start-here)
+- [**openllm-setup**](https://github.com/ScilifelabDataCentre/openllm-setup): self-hosted open LLM infrastructure for Swedish life science research · [live](https://openllm.scilifelab.se) · [user guide](https://open-llm.scilifelab.se/guides/#start-here)
 - [**serve-template-gradio**](https://github.com/ScilifelabDataCentre/serve-template-gradio): AI agent & CLI access, MCP, and agent workflows for SciLifeLab Serve apps · [SciLifeLab Serve](https://serve.scilifelab.se/)
 - [**AI Agent & MCP workshop**](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-06-09): hands-on materials for life science researchers with supporting live visualization tools · [tool-1](https://anondo1969.github.io/ai-agents-life-sciences/)
  · [tool-2](https://anondo1969.github.io/ai-agents-healthcare/)
