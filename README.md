@@ -12,9 +12,10 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 
 ### What I'm working on
 
-- [**openllm-setup**](https://github.com/ScilifelabDataCentre/openllm-setup): self-hosted open LLM infrastructure for Swedish life science research · [commits](https://github.com/ScilifelabDataCentre/openllm-setup/commits/develop/?author=anondo1969) · [live](https://openllm.scilifelab.se) · [user-guide](https://open-llm.scilifelab.se/guides/#start-here)
 -
-[SciLifeLab Serve](https://github.com/ScilifelabDataCentre/serve): Django/Kubernetes platform work on SciLifeLab's research-app hosting service, including DOI minting (InvenioRDM/DataCite), ORCID, and ROR · [live](https://serve.scilifelab.se) · [commits](https://github.com/ScilifelabDataCentre/serve/commits/develop/?author=anondo1969)
+[**openllm-setup**](https://github.com/ScilifelabDataCentre/openllm-setup): self-hosted open LLM infrastructure for Swedish life science research · [commits](https://github.com/ScilifelabDataCentre/openllm-setup/commits/develop/?author=anondo1969) · [live](https://openllm.scilifelab.se) · [user-guide](https://open-llm.scilifelab.se/guides/#start-here)
+-
+[**SciLifeLab Serve**](https://github.com/ScilifelabDataCentre/serve): Django/Kubernetes platform work on SciLifeLab's research-app hosting service, including DOI minting (InvenioRDM/DataCite), ORCID, and ROR · [commits](https://github.com/ScilifelabDataCentre/serve/commits/develop/?author=anondo1969) · [live](https://serve.scilifelab.se)
 - [**serve-template-gradio**](https://github.com/ScilifelabDataCentre/serve-template-gradio): AI agent & CLI access, MCP, and agent workflows for SciLifeLab Serve apps · [SciLifeLab Serve live](https://serve.scilifelab.se/)
 - [**AI Agent & MCP workshop**](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-06-09): hands-on materials for life science researchers with supporting live visualization tools · [tool-1](https://anondo1969.github.io/ai-agents-life-sciences/)
  · [tool-2](https://anondo1969.github.io/ai-agents-healthcare/) · [webinar](https://www.youtube.com/watch?v=aOtLszUsMjw)
