@@ -23,7 +23,7 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 
 - [**citation-constellation**](https://github.com/citation-cosmograph/citation-constellation): auditable citation-network analysis for researchers · [live](https://citation-constellation.serve.scilifelab.se) · [paper](https://arxiv.org/abs/2603.24216)
 
-- [**pause**](https://github.com/anondo1969/pause): a citation-grounded self-check on how AI may shape our habits of thought · [live](https://anondo1969.github.io/pause/) · [paper](https://doi.org/10.2139/ssrn.7270039)
+- [**pause**](https://github.com/anondo1969/pause): a citation-grounded self-check on how AI may shape our habits of thought · [live](https://anondo1969.github.io/pause/) · [paper](https://doi.org/10.2139/ssrn.7270039) · [Docker Image](https://hub.docker.com/repository/docker/mahbub1969/pause)
 
 ### Ask me about
 
