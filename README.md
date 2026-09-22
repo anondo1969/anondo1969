@@ -25,10 +25,6 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 
 - [**pause**](https://github.com/anondo1969/pause): a citation-grounded self-check on how AI may shape our habits of thought · [live](https://anondo1969.github.io/pause/) · [paper](https://doi.org/10.48550/arXiv.2609.13155) · [Docker Image](https://hub.docker.com/repository/docker/mahbub1969/pause)
 
-### Ask me about
-
-`self-hosted LLMs` · `AI agents & MCP` · `LLM and agent-based software development` · `AI for life science`
-
 ### Find me
 
 [**SciLifeLab**](https://www.scilifelab.se/data-centre/mahbub-ul-alam/) · [**LinkedIn**](https://www.linkedin.com/in/anondo) · [**Google Scholar**](https://scholar.google.com/citations?hl=en&user=lIfPGYcAAAAJ&view_op=list_works&sortby=pubdate)
