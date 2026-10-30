@@ -16,7 +16,7 @@ I build **open, self-hosted AI tools for life science**, including **LLM infrast
 
 - [**SciLifeLab Serve**](https://github.com/ScilifelabDataCentre/serve): Django/Kubernetes platform work on SciLifeLab's research-app hosting service, including DOI minting (InvenioRDM/DataCite), ORCID, and ROR · [commits](https://github.com/ScilifelabDataCentre/serve/commits/develop/?author=anondo1969) · [live](https://serve.scilifelab.se)
 
-- [**AI Agent & MCP workshop**](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-11-02): hands-on materials for life science researchers with supporting live visualization tools · [tool-1](https://anondo1969.github.io/ai-agents-life-sciences/)
+- [**AI Agent & MCP workshop**](https://github.com/ScilifelabDataCentre/scilifelab-ai-agent-mcp-workshop-2026-11-02): ongoing (four so far) workshops and hands-on materials for life science researchers with supporting live visualization tools · [tool-1](https://anondo1969.github.io/ai-agents-life-sciences/)
  · [tool-2](https://anondo1969.github.io/ai-agents-healthcare/) · [webinar](https://www.youtube.com/watch?v=aOtLszUsMjw)
 
 - [**serve-app-template**](https://github.com/ScilifelabDataCentre/serve-app-template): AI agent & CLI access, MCP, and agent workflows for SciLifeLab Serve apps (ongoing...)
